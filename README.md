@@ -51,5 +51,8 @@ This project serves as:
 A learning resource for basic penetration testing concepts
 An example of Python networking capabilities
 A demonstration of ethical security testing principles
-Important Note: This tool should only be used on systems you own or have explicit permission to test. Unauthorized scanning or brute-forcing is illegal.
+Important Note: This tool should only be used on systems you own or have explicit permission to test. Unauthorized scanning or brute-fo#rcing is illegal.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7db063b8-db60-4f8d-baab-03dd80dee700)
