@@ -47,7 +47,6 @@ Educational Purpose
 
 
 This project serves as:
-
 A learning resource for basic penetration testing concepts
 An example of Python networking capabilities
 A demonstration of ethical security testing principles
